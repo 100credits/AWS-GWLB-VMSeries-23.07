@@ -1,4 +1,4 @@
-# AWS_GWLB-VMSeries-23.07
+# AWS-GWLB-VMSeries-23.07
 Modified version from "aws_subnet_ids" to "aws_subnets".
 
 app_stack > alb.tf
